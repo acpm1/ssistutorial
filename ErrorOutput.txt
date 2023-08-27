@@ -1,0 +1,2192 @@
+0.00158,BAD,02/07/2005,0.00158,2005-07-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00158,BAD,03/07/2005,0.00158,2005-07-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,04/07/2005,0.00157,2005-07-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,05/07/2005,0.00157,2005-07-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,06/07/2005,0.00157,2005-07-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,07/07/2005,0.00157,2005-07-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,08/07/2005,0.00157,2005-07-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,09/07/2005,0.00157,2005-07-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,10/07/2005,0.00157,2005-07-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,11/07/2005,0.00157,2005-07-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,12/07/2005,0.00157,2005-07-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,13/07/2005,0.00157,2005-07-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,14/07/2005,0.00157,2005-07-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,15/07/2005,0.00157,2005-07-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,16/07/2005,0.00157,2005-07-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,17/07/2005,0.00157,2005-07-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,18/07/2005,0.00157,2005-07-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,19/07/2005,0.00157,2005-07-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,20/07/2005,0.00157,2005-07-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,21/07/2005,0.00157,2005-07-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,22/07/2005,0.00157,2005-07-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00157,BAD,23/07/2005,0.00157,2005-07-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,24/07/2005,0.00156,2005-07-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,25/07/2005,0.00156,2005-07-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,26/07/2005,0.00156,2005-07-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,27/07/2005,0.00156,2005-07-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,28/07/2005,0.00156,2005-07-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00156,BAD,29/07/2005,0.00156,2005-07-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,30/07/2005,0.00155,2005-07-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,31/07/2005,0.00155,2005-07-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,01/08/2005,0.00155,2005-08-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,02/08/2005,0.00155,2005-08-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,03/08/2005,0.00155,2005-08-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,04/08/2005,0.00155,2005-08-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,05/08/2005,0.00155,2005-08-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,06/08/2005,0.00155,2005-08-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,07/08/2005,0.00155,2005-08-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,08/08/2005,0.00155,2005-08-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,09/08/2005,0.00155,2005-08-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,10/08/2005,0.00155,2005-08-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,11/08/2005,0.00155,2005-08-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,12/08/2005,0.00155,2005-08-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00155,BAD,13/08/2005,0.00155,2005-08-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00154321,BAD,14/08/2005,0.00154,2005-08-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,15/08/2005,0.00154,2005-08-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,16/08/2005,0.00154,2005-08-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,17/08/2005,0.00154,2005-08-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,18/08/2005,0.00154,2005-08-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,19/08/2005,0.00154,2005-08-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,20/08/2005,0.00154,2005-08-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,21/08/2005,0.00154,2005-08-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,22/08/2005,0.00154,2005-08-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,23/08/2005,0.00154,2005-08-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,24/08/2005,0.00154,2005-08-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,25/08/2005,0.00154,2005-08-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00154,BAD,26/08/2005,0.00154,2005-08-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,27/08/2005,0.00153,2005-08-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,28/08/2005,0.00153,2005-08-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,29/08/2005,0.00153,2005-08-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,30/08/2005,0.00153,2005-08-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,31/08/2005,0.00153,2005-08-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,01/09/2005,0.00153,2005-09-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,02/09/2005,0.00153,2005-09-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,03/09/2005,0.00153,2005-09-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,04/09/2005,0.00153,2005-09-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,05/09/2005,0.00153,2005-09-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,06/09/2005,0.00153,2005-09-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,07/09/2005,0.00153,2005-09-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,08/09/2005,0.00153,2005-09-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,09/09/2005,0.00153,2005-09-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,10/09/2005,0.00153,2005-09-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,11/09/2005,0.00153,2005-09-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,12/09/2005,0.00153,2005-09-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,13/09/2005,0.00153,2005-09-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,14/09/2005,0.00153,2005-09-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,15/09/2005,0.00153,2005-09-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00153,BAD,16/09/2005,0.00153,2005-09-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,17/09/2005,0.00152,2005-09-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,18/09/2005,0.00152,2005-09-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,19/09/2005,0.00152,2005-09-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,20/09/2005,0.00152,2005-09-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,21/09/2005,0.00152,2005-09-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,22/09/2005,0.00152,2005-09-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,23/09/2005,0.00152,2005-09-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,24/09/2005,0.00152,2005-09-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,25/09/2005,0.00152,2005-09-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,26/09/2005,0.00152,2005-09-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,27/09/2005,0.00152,2005-09-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,28/09/2005,0.00152,2005-09-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,29/09/2005,0.00152,2005-09-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,30/09/2005,0.00152,2005-09-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,01/10/2005,0.00152,2005-10-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,02/10/2005,0.00152,2005-10-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00152,BAD,03/10/2005,0.00152,2005-10-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,04/10/2005,0.00151,2005-10-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,05/10/2005,0.00151,2005-10-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,06/10/2005,0.00151,2005-10-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,07/10/2005,0.00151,2005-10-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,08/10/2005,0.00151,2005-10-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,09/10/2005,0.00151,2005-10-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,10/10/2005,0.00151,2005-10-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,11/10/2005,0.00151,2005-10-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,12/10/2005,0.00151,2005-10-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,13/10/2005,0.00151,2005-10-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,14/10/2005,0.00151,2005-10-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,15/10/2005,0.00151,2005-10-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,16/10/2005,0.00151,2005-10-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,17/10/2005,0.00151,2005-10-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,18/10/2005,0.00151,2005-10-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,19/10/2005,0.00151,2005-10-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,20/10/2005,0.00151,2005-10-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,21/10/2005,0.00151,2005-10-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,22/10/2005,0.00151,2005-10-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,23/10/2005,0.00150539,2005-10-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00151,BAD,24/10/2005,0.00151,2005-10-24,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,25/10/2005,0.0015,2005-10-25,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,26/10/2005,0.0015,2005-10-26,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,27/10/2005,0.0015,2005-10-27,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,28/10/2005,0.0015,2005-10-28,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,29/10/2005,0.0015,2005-10-29,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,30/10/2005,0.0015,2005-10-30,-1071607778,0,Row yielded no match during lookup.
+
+1.500938E-3,BAD,31/10/2005,0.0015,2005-10-31,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,01/11/2005,0.0015,2005-11-01,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,02/11/2005,0.0015,2005-11-02,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,03/11/2005,0.0015,2005-11-03,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,04/11/2005,0.0015,2005-11-04,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,05/11/2005,0.0015,2005-11-05,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,06/11/2005,0.0015,2005-11-06,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,07/11/2005,0.0015,2005-11-07,-1071607778,0,Row yielded no match during lookup.
+
+0.0015,BAD,08/11/2005,0.0015,2005-11-08,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,09/11/2005,1.4900001E-3,2005-11-09,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,10/11/2005,1.4900001E-3,2005-11-10,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,11/11/2005,1.4900001E-3,2005-11-11,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,12/11/2005,1.4900001E-3,2005-11-12,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,13/11/2005,1.4900001E-3,2005-11-13,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,14/11/2005,1.4900001E-3,2005-11-14,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,15/11/2005,1.4900001E-3,2005-11-15,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,16/11/2005,1.4900001E-3,2005-11-16,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,17/11/2005,1.4900001E-3,2005-11-17,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,18/11/2005,1.4900001E-3,2005-11-18,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,19/11/2005,1.4900001E-3,2005-11-19,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,20/11/2005,1.4900001E-3,2005-11-20,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,21/11/2005,1.4900001E-3,2005-11-21,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,22/11/2005,1.4900001E-3,2005-11-22,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,23/11/2005,1.4900001E-3,2005-11-23,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,24/11/2005,1.4900001E-3,2005-11-24,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,25/11/2005,1.4900001E-3,2005-11-25,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,26/11/2005,1.4900001E-3,2005-11-26,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,27/11/2005,1.4900001E-3,2005-11-27,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,28/11/2005,1.4900001E-3,2005-11-28,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,29/11/2005,1.4900001E-3,2005-11-29,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,30/11/2005,1.4900001E-3,2005-11-30,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,01/12/2005,1.4900001E-3,2005-12-01,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,02/12/2005,1.4900001E-3,2005-12-02,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,03/12/2005,1.4900001E-3,2005-12-03,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,04/12/2005,1.4900001E-3,2005-12-04,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,05/12/2005,1.4900001E-3,2005-12-05,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,06/12/2005,1.4900001E-3,2005-12-06,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,07/12/2005,1.4900001E-3,2005-12-07,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,08/12/2005,1.4900001E-3,2005-12-08,-1071607778,0,Row yielded no match during lookup.
+
+1.4900001E-3,BAD,09/12/2005,1.4900001E-3,2005-12-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,10/12/2005,0.00148,2005-12-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,11/12/2005,0.00148,2005-12-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,12/12/2005,0.00148,2005-12-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,13/12/2005,0.00148,2005-12-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,14/12/2005,0.00148,2005-12-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,15/12/2005,0.00148,2005-12-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,16/12/2005,0.00148,2005-12-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,17/12/2005,0.00148,2005-12-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,18/12/2005,0.00148,2005-12-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,19/12/2005,0.00148,2005-12-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,20/12/2005,0.00148,2005-12-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,21/12/2005,0.00148,2005-12-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,22/12/2005,0.00148,2005-12-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,23/12/2005,0.00148,2005-12-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,24/12/2005,0.00148,2005-12-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00148,BAD,25/12/2005,0.00148,2005-12-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,26/12/2005,0.00147,2005-12-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,27/12/2005,0.00147,2005-12-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,28/12/2005,0.00147,2005-12-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,29/12/2005,0.00147,2005-12-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,30/12/2005,0.00147,2005-12-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,31/12/2005,0.00147,2005-12-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,01/01/2006,0.00147,2006-01-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,02/01/2006,0.00147,2006-01-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,03/01/2006,0.00147,2006-01-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,04/01/2006,0.00147,2006-01-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,05/01/2006,0.00147,2006-01-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,06/01/2006,0.00147,2006-01-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,07/01/2006,0.00147,2006-01-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,08/01/2006,0.00147,2006-01-08,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,09/01/2006,1.4600001E-3,2006-01-09,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,10/01/2006,1.4600001E-3,2006-01-10,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,11/01/2006,1.4600001E-3,2006-01-11,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,12/01/2006,1.4600001E-3,2006-01-12,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,13/01/2006,1.4600001E-3,2006-01-13,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,14/01/2006,1.4600001E-3,2006-01-14,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,15/01/2006,1.4600001E-3,2006-01-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,16/01/2006,0.00147,2006-01-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,17/01/2006,0.00147,2006-01-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,18/01/2006,0.00147,2006-01-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,19/01/2006,0.00147,2006-01-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,20/01/2006,0.00147,2006-01-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,21/01/2006,0.00147,2006-01-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,22/01/2006,0.00147,2006-01-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,23/01/2006,0.00147,2006-01-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,24/01/2006,0.00147,2006-01-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,25/01/2006,0.00147,2006-01-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,26/01/2006,0.00147,2006-01-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,27/01/2006,0.00147,2006-01-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,28/01/2006,0.00147,2006-01-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,29/01/2006,0.00147,2006-01-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,30/01/2006,0.00147,2006-01-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,31/01/2006,0.00147,2006-01-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,01/02/2006,0.00147,2006-02-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,02/02/2006,0.00147,2006-02-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,03/02/2006,0.00147,2006-02-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,04/02/2006,0.00147,2006-02-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,05/02/2006,0.00147,2006-02-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,06/02/2006,0.00147,2006-02-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,07/02/2006,0.00147,2006-02-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,08/02/2006,0.00147,2006-02-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,09/02/2006,0.00147,2006-02-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,10/02/2006,0.00147,2006-02-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,11/02/2006,0.00147,2006-02-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,12/02/2006,0.00147,2006-02-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,13/02/2006,0.00147,2006-02-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,14/02/2006,0.00147,2006-02-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,15/02/2006,0.00147,2006-02-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,16/02/2006,0.00147,2006-02-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,17/02/2006,0.00147,2006-02-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00147,BAD,18/02/2006,0.00147,2006-02-18,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,19/02/2006,1.4600001E-3,2006-02-19,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,20/02/2006,1.4600001E-3,2006-02-20,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,21/02/2006,1.4600001E-3,2006-02-21,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,22/02/2006,1.4600001E-3,2006-02-22,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,23/02/2006,1.4600001E-3,2006-02-23,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,24/02/2006,1.4600001E-3,2006-02-24,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,25/02/2006,1.461775E-3,2006-02-25,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,26/02/2006,1.4600001E-3,2006-02-26,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,27/02/2006,1.4600001E-3,2006-02-27,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,28/02/2006,1.4600001E-3,2006-02-28,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,01/03/2006,1.4600001E-3,2006-03-01,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,02/03/2006,1.4600001E-3,2006-03-02,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,03/03/2006,1.4600001E-3,2006-03-03,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,04/03/2006,1.4600001E-3,2006-03-04,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,05/03/2006,1.4600001E-3,2006-03-05,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,06/03/2006,1.4600001E-3,2006-03-06,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,07/03/2006,1.4600001E-3,2006-03-07,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,08/03/2006,1.4600001E-3,2006-03-08,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,09/03/2006,1.4600001E-3,2006-03-09,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,10/03/2006,1.4600001E-3,2006-03-10,-1071607778,0,Row yielded no match during lookup.
+
+1.4600001E-3,BAD,11/03/2006,1.4600001E-3,2006-03-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,12/03/2006,0.00145,2006-03-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,13/03/2006,0.00145,2006-03-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,14/03/2006,0.00145,2006-03-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,15/03/2006,0.00145,2006-03-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,16/03/2006,0.00145,2006-03-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,17/03/2006,0.00145,2006-03-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,18/03/2006,0.00145,2006-03-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,19/03/2006,0.00145,2006-03-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,20/03/2006,0.00145,2006-03-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,21/03/2006,0.00145,2006-03-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,22/03/2006,0.00145,2006-03-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,23/03/2006,0.00145,2006-03-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,24/03/2006,0.00145,2006-03-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,25/03/2006,0.00145,2006-03-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,26/03/2006,0.00145,2006-03-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,27/03/2006,0.00145,2006-03-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,28/03/2006,1.451758E-3,2006-03-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,29/03/2006,0.00145,2006-03-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,30/03/2006,0.00145,2006-03-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,31/03/2006,0.00145,2006-03-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,01/04/2006,0.00145,2006-04-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,02/04/2006,0.00145,2006-04-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,03/04/2006,0.00145,2006-04-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,04/04/2006,0.00145,2006-04-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,05/04/2006,0.00145,2006-04-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,06/04/2006,0.00145,2006-04-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,07/04/2006,0.00145,2006-04-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,08/04/2006,0.00145,2006-04-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,09/04/2006,0.00145,2006-04-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,10/04/2006,0.00145,2006-04-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,11/04/2006,0.00145,2006-04-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,12/04/2006,0.00145,2006-04-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,13/04/2006,0.00145,2006-04-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,14/04/2006,0.00145,2006-04-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,15/04/2006,0.00145,2006-04-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,16/04/2006,0.00145,2006-04-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,17/04/2006,0.00145,2006-04-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,18/04/2006,0.00145,2006-04-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,19/04/2006,0.00145,2006-04-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,20/04/2006,0.00145,2006-04-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,21/04/2006,0.00145,2006-04-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,22/04/2006,0.00145,2006-04-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,23/04/2006,0.00145,2006-04-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,24/04/2006,0.00145,2006-04-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,25/04/2006,0.00145,2006-04-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,26/04/2006,0.00145,2006-04-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,27/04/2006,0.00145,2006-04-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,28/04/2006,0.00145,2006-04-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,29/04/2006,0.00145,2006-04-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,30/04/2006,0.00145,2006-04-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,01/05/2006,0.00145,2006-05-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,02/05/2006,0.00145,2006-05-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,03/05/2006,0.00145,2006-05-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,04/05/2006,0.00145,2006-05-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,05/05/2006,0.00145,2006-05-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,06/05/2006,0.00145,2006-05-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,07/05/2006,0.00145,2006-05-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,08/05/2006,0.00145,2006-05-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,09/05/2006,0.00145,2006-05-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,10/05/2006,0.00145,2006-05-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,11/05/2006,0.00145,2006-05-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,12/05/2006,0.00145,2006-05-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,13/05/2006,0.00145,2006-05-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,14/05/2006,0.00145,2006-05-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,15/05/2006,0.00145,2006-05-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,16/05/2006,0.00145,2006-05-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,17/05/2006,0.00145,2006-05-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,18/05/2006,0.00145,2006-05-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,19/05/2006,0.00145,2006-05-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,20/05/2006,0.00145,2006-05-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,21/05/2006,0.00145,2006-05-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,22/05/2006,0.00145,2006-05-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,23/05/2006,0.00145,2006-05-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,24/05/2006,0.00145,2006-05-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,25/05/2006,0.00145,2006-05-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,26/05/2006,0.00145,2006-05-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,27/05/2006,0.00145,2006-05-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,28/05/2006,0.00144,2006-05-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,29/05/2006,0.00144,2006-05-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,30/05/2006,0.00144,2006-05-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,31/05/2006,0.00144,2006-05-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,01/06/2006,0.00144,2006-06-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,02/06/2006,0.00144,2006-06-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,03/06/2006,0.00144,2006-06-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,04/06/2006,0.00144,2006-06-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,05/06/2006,0.00144,2006-06-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00145,BAD,06/06/2006,0.00145,2006-06-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,07/06/2006,0.00144,2006-06-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,08/06/2006,0.00144,2006-06-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,09/06/2006,0.00144,2006-06-09,-1071607778,0,Row yielded no match during lookup.
+
+1.4424809E-3,BAD,10/06/2006,0.00144,2006-06-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,11/06/2006,0.00144,2006-06-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,12/06/2006,0.00144,2006-06-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,13/06/2006,0.00144,2006-06-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,14/06/2006,0.00144,2006-06-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,15/06/2006,0.00144,2006-06-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,16/06/2006,0.00144,2006-06-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,17/06/2006,0.00144,2006-06-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,18/06/2006,0.00144,2006-06-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,19/06/2006,0.00144,2006-06-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,20/06/2006,0.00144,2006-06-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,21/06/2006,0.00144,2006-06-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,22/06/2006,0.00144,2006-06-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,23/06/2006,0.00144,2006-06-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,24/06/2006,0.00144,2006-06-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,25/06/2006,0.00144,2006-06-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,26/06/2006,0.00144,2006-06-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,27/06/2006,1.439512E-3,2006-06-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,28/06/2006,0.00144,2006-06-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,29/06/2006,1.4394911E-3,2006-06-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,30/06/2006,0.00144,2006-06-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,01/07/2006,0.00144,2006-07-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,02/07/2006,0.00144,2006-07-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,03/07/2006,0.00144,2006-07-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,04/07/2006,0.00144,2006-07-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,05/07/2006,0.00144,2006-07-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,06/07/2006,0.00144,2006-07-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,07/07/2006,0.00144,2006-07-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,08/07/2006,0.00144,2006-07-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,09/07/2006,0.00144,2006-07-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,10/07/2006,0.00144,2006-07-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,11/07/2006,0.00144,2006-07-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,12/07/2006,0.00144,2006-07-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,13/07/2006,0.00144,2006-07-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,14/07/2006,1.4299999E-3,2006-07-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,15/07/2006,0.00144,2006-07-15,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,16/07/2006,1.4299999E-3,2006-07-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,17/07/2006,0.00144,2006-07-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,18/07/2006,0.00144,2006-07-18,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,19/07/2006,1.4299999E-3,2006-07-19,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,20/07/2006,1.4299999E-3,2006-07-20,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,21/07/2006,1.4299999E-3,2006-07-21,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,22/07/2006,1.4299999E-3,2006-07-22,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,23/07/2006,1.4299999E-3,2006-07-23,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,24/07/2006,1.4299999E-3,2006-07-24,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,25/07/2006,1.4299999E-3,2006-07-25,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,26/07/2006,1.4299999E-3,2006-07-26,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,27/07/2006,1.4299999E-3,2006-07-27,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,28/07/2006,1.4299999E-3,2006-07-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00144,BAD,29/07/2006,0.00144,2006-07-29,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,30/07/2006,1.4299999E-3,2006-07-30,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,31/07/2006,1.4299999E-3,2006-07-31,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,01/08/2006,1.4299999E-3,2006-08-01,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,02/08/2006,1.4299999E-3,2006-08-02,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,03/08/2006,1.4299999E-3,2006-08-03,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,04/08/2006,1.4299999E-3,2006-08-04,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,05/08/2006,1.4299999E-3,2006-08-05,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,06/08/2006,1.4299999E-3,2006-08-06,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,07/08/2006,1.4299999E-3,2006-08-07,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,08/08/2006,1.4299999E-3,2006-08-08,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,09/08/2006,1.4299999E-3,2006-08-09,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,10/08/2006,1.4299999E-3,2006-08-10,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,11/08/2006,1.4299999E-3,2006-08-11,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,12/08/2006,1.4299999E-3,2006-08-12,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,13/08/2006,1.4299999E-3,2006-08-13,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,14/08/2006,1.4299999E-3,2006-08-14,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,15/08/2006,1.4299999E-3,2006-08-15,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,16/08/2006,1.4299999E-3,2006-08-16,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,17/08/2006,1.4299999E-3,2006-08-17,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,18/08/2006,1.4299999E-3,2006-08-18,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,19/08/2006,1.4299999E-3,2006-08-19,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,20/08/2006,1.4299999E-3,2006-08-20,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,21/08/2006,1.4299999E-3,2006-08-21,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,22/08/2006,1.4299999E-3,2006-08-22,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,23/08/2006,1.4299999E-3,2006-08-23,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,24/08/2006,1.4299999E-3,2006-08-24,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,25/08/2006,1.4299999E-3,2006-08-25,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,26/08/2006,1.4299999E-3,2006-08-26,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,27/08/2006,1.4299999E-3,2006-08-27,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,28/08/2006,1.4299999E-3,2006-08-28,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,29/08/2006,1.4299999E-3,2006-08-29,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,30/08/2006,1.4299999E-3,2006-08-30,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,31/08/2006,1.4299999E-3,2006-08-31,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,01/09/2006,1.4299999E-3,2006-09-01,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,02/09/2006,1.4299999E-3,2006-09-02,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,03/09/2006,1.4299999E-3,2006-09-03,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,04/09/2006,1.4299999E-3,2006-09-04,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,05/09/2006,1.4299999E-3,2006-09-05,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,06/09/2006,1.4299999E-3,2006-09-06,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,07/09/2006,1.4299999E-3,2006-09-07,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,08/09/2006,1.4299999E-3,2006-09-08,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,09/09/2006,1.4299999E-3,2006-09-09,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,10/09/2006,1.4299999E-3,2006-09-10,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,11/09/2006,1.4299999E-3,2006-09-11,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,12/09/2006,1.4299999E-3,2006-09-12,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,13/09/2006,1.4299999E-3,2006-09-13,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,14/09/2006,1.4299999E-3,2006-09-14,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,15/09/2006,1.4299999E-3,2006-09-15,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,16/09/2006,1.4299999E-3,2006-09-16,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,17/09/2006,1.4299999E-3,2006-09-17,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,18/09/2006,1.4299999E-3,2006-09-18,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,19/09/2006,1.4299999E-3,2006-09-19,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,20/09/2006,1.4299999E-3,2006-09-20,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,21/09/2006,1.4299999E-3,2006-09-21,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,22/09/2006,1.4299999E-3,2006-09-22,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,23/09/2006,1.4299999E-3,2006-09-23,-1071607778,0,Row yielded no match during lookup.
+
+1.4299999E-3,BAD,24/09/2006,1.4299999E-3,2006-09-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,25/09/2006,0.00142,2006-09-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,26/09/2006,0.00142,2006-09-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,27/09/2006,0.00142,2006-09-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,28/09/2006,0.00142,2006-09-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,29/09/2006,0.00142,2006-09-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,30/09/2006,0.00142,2006-09-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,01/10/2006,0.00142,2006-10-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,02/10/2006,0.00142,2006-10-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,03/10/2006,0.00142,2006-10-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,04/10/2006,0.00142,2006-10-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,05/10/2006,0.00142,2006-10-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,06/10/2006,0.00142,2006-10-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,07/10/2006,0.00142,2006-10-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,08/10/2006,0.00142,2006-10-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,09/10/2006,0.00142,2006-10-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,10/10/2006,1.4191651E-3,2006-10-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,11/10/2006,0.00142,2006-10-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,12/10/2006,0.00142,2006-10-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,13/10/2006,0.00142,2006-10-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,14/10/2006,0.00142,2006-10-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,15/10/2006,0.00142,2006-10-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,16/10/2006,0.00142,2006-10-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,17/10/2006,0.00142,2006-10-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,18/10/2006,0.00142,2006-10-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,19/10/2006,0.00142,2006-10-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,20/10/2006,0.00141,2006-10-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,21/10/2006,0.00142,2006-10-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,22/10/2006,0.00142,2006-10-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,23/10/2006,0.00142,2006-10-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,24/10/2006,0.00142,2006-10-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,25/10/2006,0.00142,2006-10-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,26/10/2006,0.00142,2006-10-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,27/10/2006,0.00142,2006-10-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,28/10/2006,0.00142,2006-10-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,29/10/2006,0.00142,2006-10-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,30/10/2006,0.00142,2006-10-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,31/10/2006,0.00142,2006-10-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,01/11/2006,0.00142,2006-11-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,02/11/2006,0.00142,2006-11-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,03/11/2006,0.00142,2006-11-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,04/11/2006,0.00142,2006-11-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,05/11/2006,0.00142,2006-11-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,06/11/2006,0.00142,2006-11-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00142,BAD,07/11/2006,0.00142,2006-11-07,-1071607778,0,Row yielded no match during lookup.
+
+1.415909E-3,BAD,08/11/2006,0.00142,2006-11-08,-1071607778,0,Row yielded no match during lookup.
+
+1.415909E-3,BAD,09/11/2006,0.00142,2006-11-09,-1071607778,0,Row yielded no match during lookup.
+
+1.415909E-3,BAD,10/11/2006,0.00142,2006-11-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,11/11/2006,0.00141,2006-11-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,12/11/2006,0.00141,2006-11-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,13/11/2006,0.00141,2006-11-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,14/11/2006,0.00141,2006-11-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,15/11/2006,1.4128489E-3,2006-11-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,16/11/2006,0.00141,2006-11-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,17/11/2006,0.00141,2006-11-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,18/11/2006,0.00141,2006-11-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,19/11/2006,0.00141,2006-11-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,20/11/2006,0.00141,2006-11-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,21/11/2006,0.00141,2006-11-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,22/11/2006,0.00141,2006-11-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,23/11/2006,0.00141,2006-11-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,24/11/2006,0.00141,2006-11-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,25/11/2006,0.00141,2006-11-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,26/11/2006,0.00141,2006-11-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,27/11/2006,0.00141,2006-11-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,28/11/2006,0.00141,2006-11-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,29/11/2006,0.00141,2006-11-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,30/11/2006,0.00141,2006-11-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,01/12/2006,0.00141,2006-12-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,02/12/2006,0.00141,2006-12-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,03/12/2006,0.00141,2006-12-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,04/12/2006,0.00141,2006-12-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,05/12/2006,0.00141,2006-12-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,06/12/2006,0.00141,2006-12-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,07/12/2006,0.00141,2006-12-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,08/12/2006,0.00141,2006-12-08,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,09/12/2006,0.0014,2006-12-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,10/12/2006,0.00141,2006-12-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,11/12/2006,0.00141,2006-12-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,12/12/2006,1.405244E-3,2006-12-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,13/12/2006,0.0014,2006-12-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,14/12/2006,0.00141,2006-12-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00141,BAD,15/12/2006,0.00141,2006-12-15,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,16/12/2006,0.0014,2006-12-16,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,17/12/2006,0.0014,2006-12-17,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,18/12/2006,0.0014,2006-12-18,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,19/12/2006,0.0014,2006-12-19,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,20/12/2006,0.0014,2006-12-20,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,21/12/2006,0.0014,2006-12-21,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,22/12/2006,0.0014,2006-12-22,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,23/12/2006,0.0014,2006-12-23,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,24/12/2006,0.0014,2006-12-24,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,25/12/2006,0.0014,2006-12-25,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,26/12/2006,0.0014,2006-12-26,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,27/12/2006,0.0014,2006-12-27,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,28/12/2006,0.0014,2006-12-28,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,29/12/2006,0.0014,2006-12-29,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,30/12/2006,0.0014,2006-12-30,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,31/12/2006,0.0014,2006-12-31,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,01/01/2007,0.0014,2007-01-01,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,02/01/2007,0.0014,2007-01-02,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,03/01/2007,0.0014,2007-01-03,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,04/01/2007,0.0014,2007-01-04,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,05/01/2007,0.0014,2007-01-05,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,06/01/2007,0.0014,2007-01-06,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,07/01/2007,0.0014,2007-01-07,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,08/01/2007,0.0014,2007-01-08,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,09/01/2007,0.0014,2007-01-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,10/01/2007,0.00139,2007-01-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,11/01/2007,0.00139,2007-01-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,12/01/2007,0.00139,2007-01-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,13/01/2007,1.393359E-3,2007-01-13,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,14/01/2007,0.0014,2007-01-14,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,15/01/2007,0.0014,2007-01-15,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,16/01/2007,0.0014,2007-01-16,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,17/01/2007,0.0014,2007-01-17,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,18/01/2007,0.0014,2007-01-18,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,19/01/2007,0.0014,2007-01-19,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,20/01/2007,0.0014,2007-01-20,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,21/01/2007,0.0014,2007-01-21,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,22/01/2007,0.0014,2007-01-22,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,23/01/2007,0.0014,2007-01-23,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,24/01/2007,0.0014,2007-01-24,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,25/01/2007,0.0014,2007-01-25,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,26/01/2007,0.0014,2007-01-26,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,27/01/2007,0.0014,2007-01-27,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,28/01/2007,0.0014,2007-01-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,29/01/2007,0.00139,2007-01-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,30/01/2007,0.00139,2007-01-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,31/01/2007,0.00139,2007-01-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,01/02/2007,0.00139,2007-02-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,02/02/2007,0.00139,2007-02-02,-1071607778,0,Row yielded no match during lookup.
+
+0.0014,BAD,03/02/2007,0.0014,2007-02-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,04/02/2007,0.00139,2007-02-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,05/02/2007,0.00139,2007-02-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,06/02/2007,0.00139,2007-02-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,07/02/2007,0.00139,2007-02-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,08/02/2007,0.00139,2007-02-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,09/02/2007,0.00139,2007-02-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,10/02/2007,0.00139,2007-02-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,11/02/2007,0.00139,2007-02-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,12/02/2007,0.00139,2007-02-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,13/02/2007,0.00139,2007-02-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,14/02/2007,0.00139,2007-02-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,15/02/2007,0.00139,2007-02-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,16/02/2007,0.00139,2007-02-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,17/02/2007,0.00139,2007-02-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,18/02/2007,0.00139,2007-02-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,19/02/2007,0.00139,2007-02-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,20/02/2007,0.00139,2007-02-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,21/02/2007,0.00139,2007-02-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,22/02/2007,0.00139,2007-02-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,23/02/2007,0.00139,2007-02-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,24/02/2007,0.00139,2007-02-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,25/02/2007,0.00139,2007-02-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,26/02/2007,0.00139,2007-02-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00139,BAD,27/02/2007,0.00139,2007-02-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,28/02/2007,0.00138,2007-02-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,01/03/2007,0.00138,2007-03-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,02/03/2007,0.00138,2007-03-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,03/03/2007,0.00138,2007-03-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,04/03/2007,0.00138,2007-03-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00138217,BAD,05/03/2007,0.00138,2007-03-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,06/03/2007,0.00138,2007-03-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,07/03/2007,0.00138,2007-03-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,08/03/2007,0.00138,2007-03-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,09/03/2007,0.00138,2007-03-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,10/03/2007,0.00138,2007-03-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,11/03/2007,1.3806249E-3,2007-03-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,12/03/2007,0.00138,2007-03-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,13/03/2007,0.00138,2007-03-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,14/03/2007,0.00138,2007-03-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,15/03/2007,0.00138,2007-03-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,16/03/2007,0.00138,2007-03-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,17/03/2007,0.00138,2007-03-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,18/03/2007,0.00138,2007-03-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00138,BAD,19/03/2007,0.00138,2007-03-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,20/03/2007,0.00137,2007-03-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,21/03/2007,0.00137,2007-03-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,22/03/2007,0.00137,2007-03-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,23/03/2007,0.00137,2007-03-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,24/03/2007,0.00137,2007-03-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,25/03/2007,0.00137,2007-03-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,26/03/2007,0.00137,2007-03-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,27/03/2007,0.00137,2007-03-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,28/03/2007,0.00137,2007-03-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,29/03/2007,0.00137,2007-03-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,30/03/2007,0.00137,2007-03-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,31/03/2007,0.00137,2007-03-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,01/04/2007,0.00137,2007-04-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,02/04/2007,0.00137,2007-04-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,03/04/2007,0.00137,2007-04-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,04/04/2007,0.00137,2007-04-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,05/04/2007,0.00137,2007-04-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,06/04/2007,0.00137,2007-04-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,07/04/2007,0.00137,2007-04-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00137,BAD,08/04/2007,0.00137,2007-04-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,09/04/2007,0.00136,2007-04-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,10/04/2007,0.00136,2007-04-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,11/04/2007,0.00136,2007-04-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,12/04/2007,0.00136,2007-04-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,13/04/2007,0.00136,2007-04-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,14/04/2007,0.00136,2007-04-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,15/04/2007,0.00136,2007-04-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,16/04/2007,0.00135,2007-04-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,17/04/2007,0.00136,2007-04-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,18/04/2007,0.00136,2007-04-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,19/04/2007,1.356907E-3,2007-04-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,20/04/2007,0.00136,2007-04-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00136,BAD,21/04/2007,0.00136,2007-04-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00135,BAD,22/04/2007,0.00135,2007-04-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00135,BAD,23/04/2007,0.00135,2007-04-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,24/04/2007,0.00134,2007-04-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,25/04/2007,0.00134,2007-04-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,26/04/2007,0.00134,2007-04-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,27/04/2007,0.00134,2007-04-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,28/04/2007,0.00134,2007-04-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,29/04/2007,0.00134,2007-04-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,30/04/2007,0.00134,2007-04-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,01/05/2007,0.00134,2007-05-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,02/05/2007,0.00134,2007-05-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,03/05/2007,0.00134,2007-05-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,04/05/2007,0.00134,2007-05-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,05/05/2007,0.00134,2007-05-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,06/05/2007,0.00134,2007-05-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,07/05/2007,0.00134,2007-05-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,08/05/2007,0.00134,2007-05-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,09/05/2007,0.00134,2007-05-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,10/05/2007,0.00134,2007-05-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,11/05/2007,0.00134,2007-05-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,12/05/2007,0.00134,2007-05-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,13/05/2007,0.00134,2007-05-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,14/05/2007,0.00134,2007-05-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,15/05/2007,0.00134,2007-05-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,16/05/2007,0.00134,2007-05-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,17/05/2007,0.00134,2007-05-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,18/05/2007,0.00134,2007-05-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,19/05/2007,0.00134,2007-05-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,20/05/2007,0.00134,2007-05-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,21/05/2007,0.00134,2007-05-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,22/05/2007,0.00134,2007-05-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,23/05/2007,0.00134,2007-05-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,24/05/2007,0.00134,2007-05-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,25/05/2007,0.00134,2007-05-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,26/05/2007,0.00134,2007-05-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,27/05/2007,0.00134,2007-05-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,28/05/2007,0.00134,2007-05-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,29/05/2007,0.00134,2007-05-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,30/05/2007,0.00134,2007-05-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,31/05/2007,0.00134,2007-05-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,01/06/2007,0.00134,2007-06-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,02/06/2007,0.00134,2007-06-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,03/06/2007,0.00134,2007-06-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,04/06/2007,0.00134,2007-06-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,05/06/2007,0.00134,2007-06-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,06/06/2007,0.00134,2007-06-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,07/06/2007,0.00134,2007-06-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,08/06/2007,0.00134,2007-06-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,09/06/2007,0.00134,2007-06-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,10/06/2007,0.00134,2007-06-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,11/06/2007,0.00134,2007-06-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,12/06/2007,0.00134,2007-06-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,13/06/2007,0.00134,2007-06-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,14/06/2007,0.00134,2007-06-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,15/06/2007,0.00134,2007-06-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,16/06/2007,0.00134,2007-06-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,17/06/2007,0.00134,2007-06-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,18/06/2007,0.00134,2007-06-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,19/06/2007,0.00134,2007-06-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,20/06/2007,0.00134,2007-06-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,21/06/2007,0.00134,2007-06-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,22/06/2007,0.00134,2007-06-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,23/06/2007,0.00134,2007-06-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,24/06/2007,0.00134,2007-06-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,25/06/2007,0.00134,2007-06-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,26/06/2007,0.00134,2007-06-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,27/06/2007,0.00134,2007-06-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,28/06/2007,0.00134,2007-06-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,29/06/2007,0.00134,2007-06-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,30/06/2007,0.00134,2007-06-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,01/07/2007,0.00134,2007-07-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,02/07/2007,0.00134,2007-07-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,03/07/2007,0.00134,2007-07-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,04/07/2007,0.00134,2007-07-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,05/07/2007,1.340339E-3,2007-07-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,06/07/2007,0.00134,2007-07-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,07/07/2007,0.00134,2007-07-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,08/07/2007,0.00134,2007-07-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,09/07/2007,0.00134,2007-07-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,10/07/2007,0.00134,2007-07-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,11/07/2007,0.00134,2007-07-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,12/07/2007,0.00134,2007-07-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,13/07/2007,0.00134,2007-07-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,14/07/2007,0.00134,2007-07-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,15/07/2007,0.00134,2007-07-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,16/07/2007,0.00134,2007-07-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,17/07/2007,0.00134,2007-07-17,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,18/07/2007,0.00134,2007-07-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,19/07/2007,0.00134,2007-07-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,20/07/2007,0.00134,2007-07-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,21/07/2007,0.00134,2007-07-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00134,BAD,22/07/2007,0.00134,2007-07-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,23/07/2007,0.00133,2007-07-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,24/07/2007,0.00133,2007-07-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,25/07/2007,0.00133,2007-07-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,26/07/2007,0.00133,2007-07-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,27/07/2007,0.00133,2007-07-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,28/07/2007,0.00133,2007-07-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,29/07/2007,0.00133,2007-07-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,30/07/2007,0.00133,2007-07-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,31/07/2007,0.00133,2007-07-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,01/08/2007,0.00133,2007-08-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,02/08/2007,0.00133,2007-08-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,03/08/2007,0.00133,2007-08-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,04/08/2007,0.00133,2007-08-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00133,BAD,05/08/2007,0.00133,2007-08-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,06/08/2007,0.00132,2007-08-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,07/08/2007,0.00132,2007-08-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,08/08/2007,0.00132,2007-08-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,09/08/2007,0.00132,2007-08-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,10/08/2007,0.00132,2007-08-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,11/08/2007,0.00132,2007-08-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,12/08/2007,0.00132,2007-08-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,13/08/2007,0.00132,2007-08-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,14/08/2007,0.00132,2007-08-14,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,15/08/2007,0.0013,2007-08-15,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,16/08/2007,0.0013,2007-08-16,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,17/08/2007,0.0013,2007-08-17,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,18/08/2007,0.0013,2007-08-18,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,19/08/2007,0.0013,2007-08-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00132,BAD,20/08/2007,0.00132,2007-08-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,21/08/2007,0.00131,2007-08-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,22/08/2007,0.00131,2007-08-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,23/08/2007,0.00131,2007-08-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,24/08/2007,0.00131,2007-08-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,25/08/2007,0.00131,2007-08-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,26/08/2007,0.00131,2007-08-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,27/08/2007,0.00131,2007-08-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,28/08/2007,0.00131,2007-08-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,29/08/2007,0.00131,2007-08-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,30/08/2007,0.00131,2007-08-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,31/08/2007,0.00131,2007-08-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,01/09/2007,0.00131,2007-09-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,02/09/2007,0.00131,2007-09-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,03/09/2007,0.00131,2007-09-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,04/09/2007,0.00131,2007-09-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,05/09/2007,0.00131,2007-09-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,06/09/2007,0.00131,2007-09-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,07/09/2007,0.00131,2007-09-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,08/09/2007,0.00131,2007-09-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,09/09/2007,0.00131,2007-09-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,10/09/2007,0.00131,2007-09-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,11/09/2007,0.00131,2007-09-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,12/09/2007,0.00131,2007-09-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,13/09/2007,0.00131,2007-09-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,14/09/2007,0.00131,2007-09-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,15/09/2007,0.00131,2007-09-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00131,BAD,16/09/2007,0.00131,2007-09-16,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,17/09/2007,0.0013,2007-09-17,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,18/09/2007,0.0013,2007-09-18,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,19/09/2007,0.0013,2007-09-19,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,20/09/2007,0.0013,2007-09-20,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,21/09/2007,0.0013,2007-09-21,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,22/09/2007,0.0013,2007-09-22,-1071607778,0,Row yielded no match during lookup.
+
+0.0013,BAD,23/09/2007,0.0013,2007-09-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00129,BAD,24/09/2007,0.00129,2007-09-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00128,BAD,25/09/2007,0.00128,2007-09-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00126,BAD,26/09/2007,0.00126,2007-09-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00126,BAD,27/09/2007,0.00126,2007-09-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00126,BAD,28/09/2007,0.00126,2007-09-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00125,BAD,29/09/2007,0.00125,2007-09-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00125,BAD,30/09/2007,0.00125,2007-09-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00121,BAD,01/10/2007,0.00121,2007-10-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00121,BAD,02/10/2007,0.00121,2007-10-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00121,BAD,03/10/2007,0.00121,2007-10-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00121,BAD,04/10/2007,0.00121,2007-10-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00121,BAD,05/10/2007,0.00121,2007-10-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00121,BAD,06/10/2007,0.00121,2007-10-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,07/10/2007,0.00108,2007-10-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,08/10/2007,0.00108,2007-10-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00103,BAD,09/10/2007,0.00103,2007-10-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00103,BAD,10/10/2007,0.00103,2007-10-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00103,BAD,11/10/2007,0.00103,2007-10-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00103,BAD,12/10/2007,0.00103,2007-10-12,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,13/10/2007,9.1900001E-4,2007-10-13,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,14/10/2007,9.1900001E-4,2007-10-14,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,15/10/2007,9.1900001E-4,2007-10-15,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,16/10/2007,9.1900001E-4,2007-10-16,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,17/10/2007,9.1900001E-4,2007-10-17,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,18/10/2007,9.1900001E-4,2007-10-18,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,19/10/2007,9.1900001E-4,2007-10-19,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,20/10/2007,9.1900001E-4,2007-10-20,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,21/10/2007,9.1900001E-4,2007-10-21,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,22/10/2007,9.1900001E-4,2007-10-22,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,23/10/2007,9.1900001E-4,2007-10-23,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,24/10/2007,9.1900001E-4,2007-10-24,-1071607778,0,Row yielded no match during lookup.
+
+9.1900001E-4,BAD,25/10/2007,9.1900001E-4,2007-10-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00104,BAD,26/10/2007,0.00104,2007-10-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00104,BAD,27/10/2007,0.00104,2007-10-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,28/10/2007,0.00107,2007-10-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,29/10/2007,0.00107,2007-10-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,30/10/2007,0.00107,2007-10-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,31/10/2007,0.00107,2007-10-31,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,01/11/2007,0.00107,2007-11-01,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,02/11/2007,0.00107,2007-11-02,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,03/11/2007,0.00107,2007-11-03,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,04/11/2007,0.00107,2007-11-04,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,05/11/2007,0.00107,2007-11-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,06/11/2007,0.00107,2007-11-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,07/11/2007,0.00107,2007-11-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,08/11/2007,0.00107,2007-11-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,09/11/2007,0.00107,2007-11-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,10/11/2007,0.00107,2007-11-10,-1071607778,0,Row yielded no match during lookup.
+
+1.1399999E-3,BAD,11/11/2007,1.1399999E-3,2007-11-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,12/11/2007,0.00108,2007-11-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,13/11/2007,0.00108,2007-11-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,14/11/2007,0.00108,2007-11-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,15/11/2007,0.00108,2007-11-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,16/11/2007,0.00108,2007-11-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,17/11/2007,0.00108,2007-11-17,-1071607778,0,Row yielded no match during lookup.
+
+0.0011,BAD,18/11/2007,0.0011,2007-11-18,-1071607778,0,Row yielded no match during lookup.
+
+0.00111,BAD,19/11/2007,0.00111,2007-11-19,-1071607778,0,Row yielded no match during lookup.
+
+0.00113,BAD,20/11/2007,0.00113,2007-11-20,-1071607778,0,Row yielded no match during lookup.
+
+0.00113,BAD,21/11/2007,0.00113,2007-11-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00113,BAD,22/11/2007,0.00113,2007-11-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00113,BAD,23/11/2007,0.00113,2007-11-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00109,BAD,24/11/2007,0.00109,2007-11-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00112,BAD,25/11/2007,0.00112,2007-11-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00113,BAD,26/11/2007,0.00113,2007-11-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00118,BAD,27/11/2007,0.00118,2007-11-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00118,BAD,28/11/2007,0.00118,2007-11-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00118,BAD,29/11/2007,0.00118,2007-11-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00118,BAD,30/11/2007,0.00118,2007-11-30,-1071607778,0,Row yielded no match during lookup.
+
+0.00113,BAD,01/12/2007,0.00113,2007-12-01,-1071607778,0,Row yielded no match during lookup.
+
+0.0011,BAD,02/12/2007,0.0011,2007-12-02,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,03/12/2007,1.1699999E-3,2007-12-03,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,04/12/2007,1.1699999E-3,2007-12-04,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,05/12/2007,1.1699999E-3,2007-12-05,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,06/12/2007,1.1699999E-3,2007-12-06,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,07/12/2007,1.1699999E-3,2007-12-07,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,08/12/2007,1.1699999E-3,2007-12-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00117096,BAD,09/12/2007,1.1699999E-3,2007-12-09,-1071607778,0,Row yielded no match during lookup.
+
+0.00118,BAD,10/12/2007,0.00118,2007-12-10,-1071607778,0,Row yielded no match during lookup.
+
+0.00119,BAD,11/12/2007,0.00119,2007-12-11,-1071607778,0,Row yielded no match during lookup.
+
+0.00119,BAD,12/12/2007,0.00119,2007-12-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00119,BAD,13/12/2007,0.00119,2007-12-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00119,BAD,14/12/2007,0.00119,2007-12-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00118,BAD,15/12/2007,0.00118,2007-12-15,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,16/12/2007,1.1699999E-3,2007-12-16,-1071607778,0,Row yielded no match during lookup.
+
+1.1699999E-3,BAD,17/12/2007,1.1699999E-3,2007-12-17,-1071607778,0,Row yielded no match during lookup.
+
+1.1399999E-3,BAD,18/12/2007,1.1399999E-3,2007-12-18,-1071607778,0,Row yielded no match during lookup.
+
+1.1399999E-3,BAD,19/12/2007,1.1399999E-3,2007-12-19,-1071607778,0,Row yielded no match during lookup.
+
+1.1399999E-3,BAD,20/12/2007,1.1399999E-3,2007-12-20,-1071607778,0,Row yielded no match during lookup.
+
+1.1399999E-3,BAD,21/12/2007,1.1399999E-3,2007-12-21,-1071607778,0,Row yielded no match during lookup.
+
+0.00109,BAD,22/12/2007,0.00109,2007-12-22,-1071607778,0,Row yielded no match during lookup.
+
+0.00108,BAD,23/12/2007,0.00108,2007-12-23,-1071607778,0,Row yielded no match during lookup.
+
+0.00107,BAD,24/12/2007,1.0660751E-3,2007-12-24,-1071607778,0,Row yielded no match during lookup.
+
+0.00105,BAD,25/12/2007,0.00105,2007-12-25,-1071607778,0,Row yielded no match during lookup.
+
+0.00105,BAD,26/12/2007,0.00105,2007-12-26,-1071607778,0,Row yielded no match during lookup.
+
+0.00105,BAD,27/12/2007,0.00105,2007-12-27,-1071607778,0,Row yielded no match during lookup.
+
+0.00105,BAD,28/12/2007,0.00105,2007-12-28,-1071607778,0,Row yielded no match during lookup.
+
+0.00102,BAD,29/12/2007,0.00102,2007-12-29,-1071607778,0,Row yielded no match during lookup.
+
+0.00101,BAD,30/12/2007,0.00101,2007-12-30,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,31/12/2007,9.9900004E-4,2007-12-31,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,01/01/2008,9.9900004E-4,2008-01-01,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,02/01/2008,9.9900004E-4,2008-01-02,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,03/01/2008,9.9900004E-4,2008-01-03,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,04/01/2008,9.9900004E-4,2008-01-04,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,05/01/2008,9.9900004E-4,2008-01-05,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,06/01/2008,9.9900004E-4,2008-01-06,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,07/01/2008,9.9900004E-4,2008-01-07,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,08/01/2008,9.9900004E-4,2008-01-08,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,09/01/2008,9.9900004E-4,2008-01-09,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,10/01/2008,9.9900004E-4,2008-01-10,-1071607778,0,Row yielded no match during lookup.
+
+9.9900004E-4,BAD,11/01/2008,9.9900004E-4,2008-01-11,-1071607778,0,Row yielded no match during lookup.
+
+9.6999999E-4,BAD,12/01/2008,9.6999999E-4,2008-01-12,-1071607778,0,Row yielded no match during lookup.
+
+9.3400001E-4,BAD,13/01/2008,9.3400001E-4,2008-01-13,-1071607778,0,Row yielded no match during lookup.
+
+8.9000002E-4,BAD,14/01/2008,8.9000002E-4,2008-01-14,-1071607778,0,Row yielded no match during lookup.
+
+8.6899998E-4,BAD,15/01/2008,8.6899998E-4,2008-01-15,-1071607778,0,Row yielded no match during lookup.
+
+9.1300003E-4,BAD,16/01/2008,9.1300003E-4,2008-01-16,-1071607778,0,Row yielded no match during lookup.
+
+9.1300003E-4,BAD,17/01/2008,9.1300003E-4,2008-01-17,-1071607778,0,Row yielded no match during lookup.
+
+9.1300003E-4,BAD,18/01/2008,9.1300003E-4,2008-01-18,-1071607778,0,Row yielded no match during lookup.
+
+0.000917,BAD,19/01/2008,0.000917,2008-01-19,-1071607778,0,Row yielded no match during lookup.
+
+0.000917,BAD,20/01/2008,0.000917,2008-01-20,-1071607778,0,Row yielded no match during lookup.
+
+9.1200002E-4,BAD,21/01/2008,9.1200002E-4,2008-01-21,-1071607778,0,Row yielded no match during lookup.
+
+8.5399998E-4,BAD,22/01/2008,8.5399998E-4,2008-01-22,-1071607778,0,Row yielded no match during lookup.
+
+8.7300001E-4,BAD,23/01/2008,8.7300001E-4,2008-01-23,-1071607778,0,Row yielded no match during lookup.
+
+8.7300001E-4,BAD,24/01/2008,8.7300001E-4,2008-01-24,-1071607778,0,Row yielded no match during lookup.
+
+8.7300001E-4,BAD,25/01/2008,8.7300001E-4,2008-01-25,-1071607778,0,Row yielded no match during lookup.
+
+8.6099998E-4,BAD,26/01/2008,8.6099998E-4,2008-01-26,-1071607778,0,Row yielded no match during lookup.
+
+8.6899998E-4,BAD,27/01/2008,8.6899998E-4,2008-01-27,-1071607778,0,Row yielded no match during lookup.
+
+8.5000001E-4,BAD,28/01/2008,8.5000001E-4,2008-01-28,-1071607778,0,Row yielded no match during lookup.
+
+8.3700003E-4,BAD,29/01/2008,8.3700003E-4,2008-01-29,-1071607778,0,Row yielded no match during lookup.
+
+8.3700003E-4,BAD,30/01/2008,8.3700003E-4,2008-01-30,-1071607778,0,Row yielded no match during lookup.
+
+8.3700003E-4,BAD,31/01/2008,8.3700003E-4,2008-01-31,-1071607778,0,Row yielded no match during lookup.
+
+8.3700003E-4,BAD,01/02/2008,8.3700003E-4,2008-02-01,-1071607778,0,Row yielded no match during lookup.
+
+8.2199997E-4,BAD,02/02/2008,8.2199997E-4,2008-02-02,-1071607778,0,Row yielded no match during lookup.
+
+8.1900001E-4,BAD,03/02/2008,8.1900001E-4,2008-02-03,-1071607778,0,Row yielded no match during lookup.
+
+7.7500002E-4,BAD,04/02/2008,7.7500002E-4,2008-02-04,-1071607778,0,Row yielded no match during lookup.
+
+7.6899998E-4,BAD,05/02/2008,7.6899998E-4,2008-02-05,-1071607778,0,Row yielded no match during lookup.
+
+7.7799999E-4,BAD,06/02/2008,7.7799999E-4,2008-02-06,-1071607778,0,Row yielded no match during lookup.
+
+7.7799999E-4,BAD,07/02/2008,7.7799999E-4,2008-02-07,-1071607778,0,Row yielded no match during lookup.
+
+7.7799999E-4,BAD,08/02/2008,7.7799999E-4,2008-02-08,-1071607778,0,Row yielded no match during lookup.
+
+7.7799999E-4,BAD,09/02/2008,7.7799999E-4,2008-02-09,-1071607778,0,Row yielded no match during lookup.
+
+7.6299999E-4,BAD,10/02/2008,7.6299999E-4,2008-02-10,-1071607778,0,Row yielded no match during lookup.
+
+0.000757,BAD,11/02/2008,0.000757,2008-02-11,-1071607778,0,Row yielded no match during lookup.
+
+7.3999999E-4,BAD,12/02/2008,7.3999999E-4,2008-02-12,-1071607778,0,Row yielded no match during lookup.
+
+7.2399998E-4,BAD,13/02/2008,7.2399998E-4,2008-02-13,-1071607778,0,Row yielded no match during lookup.
+
+7.2399998E-4,BAD,14/02/2008,7.2399998E-4,2008-02-14,-1071607778,0,Row yielded no match during lookup.
+
+7.2399998E-4,BAD,15/02/2008,7.2399998E-4,2008-02-15,-1071607778,0,Row yielded no match during lookup.
+
+7.2399998E-4,BAD,16/02/2008,7.2399998E-4,2008-02-16,-1071607778,0,Row yielded no match during lookup.
+
+7.5399998E-4,BAD,17/02/2008,7.5399998E-4,2008-02-17,-1071607778,0,Row yielded no match during lookup.
+
+7.9000002E-4,BAD,18/02/2008,7.9000002E-4,2008-02-18,-1071607778,0,Row yielded no match during lookup.
+
+0.000772,BAD,19/02/2008,0.000772,2008-02-19,-1071607778,0,Row yielded no match during lookup.
+
+0.000772,BAD,20/02/2008,0.000772,2008-02-20,-1071607778,0,Row yielded no match during lookup.
+
+0.000772,BAD,21/02/2008,0.000772,2008-02-21,-1071607778,0,Row yielded no match during lookup.
+
+0.000772,BAD,22/02/2008,0.000772,2008-02-22,-1071607778,0,Row yielded no match during lookup.
+
+7.3999999E-4,BAD,23/02/2008,7.3999999E-4,2008-02-23,-1071607778,0,Row yielded no match during lookup.
+
+7.3999999E-4,BAD,24/02/2008,7.3999999E-4,2008-02-24,-1071607778,0,Row yielded no match during lookup.
+
+7.7799999E-4,BAD,25/02/2008,7.7799999E-4,2008-02-25,-1071607778,0,Row yielded no match during lookup.
+
+7.6600001E-4,BAD,26/02/2008,7.6600001E-4,2008-02-26,-1071607778,0,Row yielded no match during lookup.
+
+7.7699998E-4,BAD,27/02/2008,7.7699998E-4,2008-02-27,-1071607778,0,Row yielded no match during lookup.
+
+7.7699998E-4,BAD,28/02/2008,7.7699998E-4,2008-02-28,-1071607778,0,Row yielded no match during lookup.
+
+7.7699998E-4,BAD,29/02/2008,7.7699998E-4,2008-02-29,-1071607778,0,Row yielded no match during lookup.
+
+7.6899998E-4,BAD,01/03/2008,7.6899998E-4,2008-03-01,-1071607778,0,Row yielded no match during lookup.
+
+7.6000002E-4,BAD,02/03/2008,7.6000002E-4,2008-03-02,-1071607778,0,Row yielded no match during lookup.
+
+7.6000002E-4,BAD,03/03/2008,7.6000002E-4,2008-03-03,-1071607778,0,Row yielded no match during lookup.
+
+7.6299999E-4,BAD,04/03/2008,7.6299999E-4,2008-03-04,-1071607778,0,Row yielded no match during lookup.
+
+7.9899997E-4,BAD,05/03/2008,7.9899997E-4,2008-03-05,-1071607778,0,Row yielded no match during lookup.
+
+7.9899997E-4,BAD,06/03/2008,7.9899997E-4,2008-03-06,-1071607778,0,Row yielded no match during lookup.
+
+7.9899997E-4,BAD,07/03/2008,7.9899997E-4,2008-03-07,-1071607778,0,Row yielded no match during lookup.
+
+7.9899997E-4,BAD,08/03/2008,7.9899997E-4,2008-03-08,-1071607778,0,Row yielded no match during lookup.
+
+7.5800001E-4,BAD,09/03/2008,7.5800001E-4,2008-03-09,-1071607778,0,Row yielded no match during lookup.
+
+7.5800001E-4,BAD,10/03/2008,7.5800001E-4,2008-03-10,-1071607778,0,Row yielded no match during lookup.
+
+0.000757,BAD,11/03/2008,0.000757,2008-03-11,-1071607778,0,Row yielded no match during lookup.
+
+0.000757,BAD,12/03/2008,0.000757,2008-03-12,-1071607778,0,Row yielded no match during lookup.
+
+0.000757,BAD,13/03/2008,0.000757,2008-03-13,-1071607778,0,Row yielded no match during lookup.
+
+0.000757,BAD,14/03/2008,0.000757,2008-03-14,-1071607778,0,Row yielded no match during lookup.
+
+7.5100001E-4,BAD,15/03/2008,7.5100001E-4,2008-03-15,-1071607778,0,Row yielded no match during lookup.
+
+7.4599998E-4,BAD,16/03/2008,7.4599998E-4,2008-03-16,-1071607778,0,Row yielded no match during lookup.
+
+7.3899998E-4,BAD,17/03/2008,7.3899998E-4,2008-03-17,-1071607778,0,Row yielded no match during lookup.
+
+0.000741,BAD,18/03/2008,0.000741,2008-03-18,-1071607778,0,Row yielded no match during lookup.
+
+0.000741,BAD,19/03/2008,0.000741,2008-03-19,-1071607778,0,Row yielded no match during lookup.
+
+0.000741,BAD,20/03/2008,0.000741,2008-03-20,-1071607778,0,Row yielded no match during lookup.
+
+0.000741,BAD,21/03/2008,0.000741,2008-03-21,-1071607778,0,Row yielded no match during lookup.
+
+7.4400002E-4,BAD,22/03/2008,7.4400002E-4,2008-03-22,-1071607778,0,Row yielded no match during lookup.
+
+0.000742,BAD,23/03/2008,0.000742,2008-03-23,-1071607778,0,Row yielded no match during lookup.
+
+7.3899998E-4,BAD,24/03/2008,7.3899998E-4,2008-03-24,-1071607778,0,Row yielded no match during lookup.
+
+7.3700002E-4,BAD,25/03/2008,7.3700002E-4,2008-03-25,-1071607778,0,Row yielded no match during lookup.
+
+7.3299999E-4,BAD,26/03/2008,7.3299999E-4,2008-03-26,-1071607778,0,Row yielded no match during lookup.
+
+7.3299999E-4,BAD,27/03/2008,7.3299999E-4,2008-03-27,-1071607778,0,Row yielded no match during lookup.
+
+7.3299999E-4,BAD,28/03/2008,7.3299999E-4,2008-03-28,-1071607778,0,Row yielded no match during lookup.
+
+7.2900002E-4,BAD,29/03/2008,7.2900002E-4,2008-03-29,-1071607778,0,Row yielded no match during lookup.
+
+7.4300001E-4,BAD,30/03/2008,7.4300001E-4,2008-03-30,-1071607778,0,Row yielded no match during lookup.
+
+7.2700001E-4,BAD,31/03/2008,7.2700001E-4,2008-03-31,-1071607778,0,Row yielded no match during lookup.
+
+7.3199999E-4,BAD,01/04/2008,7.3199999E-4,2008-04-01,-1071607778,0,Row yielded no match during lookup.
+
+0.000726,BAD,02/04/2008,0.000726,2008-04-02,-1071607778,0,Row yielded no match during lookup.
+
+0.000726,BAD,03/04/2008,0.000726,2008-04-03,-1071607778,0,Row yielded no match during lookup.
+
+0.000726,BAD,04/04/2008,0.000726,2008-04-04,-1071607778,0,Row yielded no match during lookup.
+
+0.000726,BAD,05/04/2008,0.000726,2008-04-05,-1071607778,0,Row yielded no match during lookup.
+
+0.000718,BAD,06/04/2008,0.000718,2008-04-06,-1071607778,0,Row yielded no match during lookup.
+
+7.0999999E-4,BAD,07/04/2008,7.0999999E-4,2008-04-07,-1071607778,0,Row yielded no match during lookup.
+
+7.1300002E-4,BAD,08/04/2008,7.1300002E-4,2008-04-08,-1071607778,0,Row yielded no match during lookup.
+
+7.1300002E-4,BAD,09/04/2008,7.1300002E-4,2008-04-09,-1071607778,0,Row yielded no match during lookup.
+
+7.1300002E-4,BAD,10/04/2008,7.1300002E-4,2008-04-10,-1071607778,0,Row yielded no match during lookup.
+
+7.1300002E-4,BAD,11/04/2008,7.1300002E-4,2008-04-11,-1071607778,0,Row yielded no match during lookup.
+
+0.000719,BAD,12/04/2008,0.000719,2008-04-12,-1071607778,0,Row yielded no match during lookup.
+
+7.0899999E-4,BAD,13/04/2008,7.0899999E-4,2008-04-13,-1071607778,0,Row yielded no match during lookup.
+
+7.1200001E-4,BAD,14/04/2008,7.1200001E-4,2008-04-14,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,15/04/2008,7.0500001E-4,2008-04-15,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,16/04/2008,7.0500001E-4,2008-04-16,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,17/04/2008,7.0500001E-4,2008-04-17,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,18/04/2008,7.0500001E-4,2008-04-18,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,19/04/2008,7.0500001E-4,2008-04-19,-1071607778,0,Row yielded no match during lookup.
+
+6.9800002E-4,BAD,20/04/2008,6.9800002E-4,2008-04-20,-1071607778,0,Row yielded no match during lookup.
+
+6.9199997E-4,BAD,21/04/2008,6.9199997E-4,2008-04-21,-1071607778,0,Row yielded no match during lookup.
+
+6.9399999E-4,BAD,22/04/2008,6.9399999E-4,2008-04-22,-1071607778,0,Row yielded no match during lookup.
+
+6.8400003E-4,BAD,23/04/2008,6.8400003E-4,2008-04-23,-1071607778,0,Row yielded no match during lookup.
+
+6.8400003E-4,BAD,24/04/2008,6.8400003E-4,2008-04-24,-1071607778,0,Row yielded no match during lookup.
+
+6.8400003E-4,BAD,25/04/2008,6.8400003E-4,2008-04-25,-1071607778,0,Row yielded no match during lookup.
+
+6.8400003E-4,BAD,26/04/2008,6.8400003E-4,2008-04-26,-1071607778,0,Row yielded no match during lookup.
+
+6.6700001E-4,BAD,27/04/2008,6.6700001E-4,2008-04-27,-1071607778,0,Row yielded no match during lookup.
+
+6.6999998E-4,BAD,28/04/2008,6.6999998E-4,2008-04-28,-1071607778,0,Row yielded no match during lookup.
+
+0.000688,BAD,29/04/2008,0.000688,2008-04-29,-1071607778,0,Row yielded no match during lookup.
+
+0.000688,BAD,30/04/2008,0.000688,2008-04-30,-1071607778,0,Row yielded no match during lookup.
+
+0.000688,BAD,01/05/2008,0.000688,2008-05-01,-1071607778,0,Row yielded no match during lookup.
+
+0.000688,BAD,02/05/2008,0.000688,2008-05-02,-1071607778,0,Row yielded no match during lookup.
+
+0.000696,BAD,03/05/2008,0.000696,2008-05-03,-1071607778,0,Row yielded no match during lookup.
+
+6.8300002E-4,BAD,04/05/2008,6.8300002E-4,2008-05-04,-1071607778,0,Row yielded no match during lookup.
+
+0.000688,BAD,05/05/2008,0.000688,2008-05-05,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,06/05/2008,0.00068,2008-05-06,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,07/05/2008,0.00068,2008-05-07,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,08/05/2008,0.00068,2008-05-08,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,09/05/2008,0.00068,2008-05-09,-1071607778,0,Row yielded no match during lookup.
+
+6.8900001E-4,BAD,10/05/2008,6.8900001E-4,2008-05-10,-1071607778,0,Row yielded no match during lookup.
+
+6.8400003E-4,BAD,11/05/2008,6.8400003E-4,2008-05-11,-1071607778,0,Row yielded no match during lookup.
+
+6.8400003E-4,BAD,12/05/2008,6.8400003E-4,2008-05-12,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,13/05/2008,0.00068,2008-05-13,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,14/05/2008,0.00068,2008-05-14,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,15/05/2008,0.00068,2008-05-15,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,16/05/2008,0.00068,2008-05-16,-1071607778,0,Row yielded no match during lookup.
+
+0.00068,BAD,17/05/2008,0.00068,2008-05-17,-1071607778,0,Row yielded no match during lookup.
+
+6.7899999E-4,BAD,18/05/2008,6.7899999E-4,2008-05-18,-1071607778,0,Row yielded no match during lookup.
+
+0.000673,BAD,19/05/2008,0.000673,2008-05-19,-1071607778,0,Row yielded no match during lookup.
+
+6.6700001E-4,BAD,20/05/2008,6.6700001E-4,2008-05-20,-1071607778,0,Row yielded no match during lookup.
+
+6.7199999E-4,BAD,21/05/2008,6.7199999E-4,2008-05-21,-1071607778,0,Row yielded no match during lookup.
+
+6.7199999E-4,BAD,22/05/2008,6.7199999E-4,2008-05-22,-1071607778,0,Row yielded no match during lookup.
+
+6.7199999E-4,BAD,23/05/2008,6.7199999E-4,2008-05-23,-1071607778,0,Row yielded no match during lookup.
+
+6.6800002E-4,BAD,24/05/2008,6.6800002E-4,2008-05-24,-1071607778,0,Row yielded no match during lookup.
+
+6.6999998E-4,BAD,25/05/2008,6.6999998E-4,2008-05-25,-1071607778,0,Row yielded no match during lookup.
+
+6.6999998E-4,BAD,26/05/2008,6.6999998E-4,2008-05-26,-1071607778,0,Row yielded no match during lookup.
+
+6.7600003E-4,BAD,27/05/2008,6.7600003E-4,2008-05-27,-1071607778,0,Row yielded no match during lookup.
+
+6.7600003E-4,BAD,28/05/2008,6.7600003E-4,2008-05-28,-1071607778,0,Row yielded no match during lookup.
+
+6.7600003E-4,BAD,29/05/2008,6.7600003E-4,2008-05-29,-1071607778,0,Row yielded no match during lookup.
+
+6.7600003E-4,BAD,30/05/2008,6.7600003E-4,2008-05-30,-1071607778,0,Row yielded no match during lookup.
+
+6.7600003E-4,BAD,31/05/2008,6.7600003E-4,2008-05-31,-1071607778,0,Row yielded no match during lookup.
+
+6.9999998E-4,BAD,01/06/2008,6.9999998E-4,2008-06-01,-1071607778,0,Row yielded no match during lookup.
+
+6.9999998E-4,BAD,02/06/2008,6.9999998E-4,2008-06-02,-1071607778,0,Row yielded no match during lookup.
+
+7.0899999E-4,BAD,03/06/2008,7.0899999E-4,2008-06-03,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,04/06/2008,7.0500001E-4,2008-06-04,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,05/06/2008,7.0500001E-4,2008-06-05,-1071607778,0,Row yielded no match during lookup.
+
+7.0500001E-4,BAD,06/06/2008,7.0500001E-4,2008-06-06,-1071607778,0,Row yielded no match during lookup.
+
+7.0099998E-4,BAD,07/06/2008,7.0099998E-4,2008-06-07,-1071607778,0,Row yielded no match during lookup.
+
+7.0799998E-4,BAD,08/06/2008,7.0799998E-4,2008-06-08,-1071607778,0,Row yielded no match during lookup.
+
+6.9800002E-4,BAD,09/06/2008,6.9800002E-4,2008-06-09,-1071607778,0,Row yielded no match during lookup.
+
+6.9800002E-4,BAD,10/06/2008,6.9800002E-4,2008-06-10,-1071607778,0,Row yielded no match during lookup.
+
+6.9800002E-4,BAD,11/06/2008,6.9800002E-4,2008-06-11,-1071607778,0,Row yielded no match during lookup.
+
+6.9800002E-4,BAD,12/06/2008,6.9800002E-4,2008-06-12,-1071607778,0,Row yielded no match during lookup.
+
+6.9800002E-4,BAD,13/06/2008,6.9800002E-4,2008-06-13,-1071607778,0,Row yielded no match during lookup.
+
+7.2200003E-4,BAD,14/06/2008,7.2200003E-4,2008-06-14,-1071607778,0,Row yielded no match during lookup.
+
+7.2499999E-4,BAD,15/06/2008,7.2499999E-4,2008-06-15,-1071607778,0,Row yielded no match during lookup.
+
+7.1400002E-4,BAD,16/06/2008,7.1400002E-4,2008-06-16,-1071607778,0,Row yielded no match during lookup.
+
+6.9999998E-4,BAD,17/06/2008,6.9999998E-4,2008-06-17,-1071607778,0,Row yielded no match during lookup.
+
+6.9999998E-4,BAD,18/06/2008,6.9999998E-4,2008-06-18,-1071607778,0,Row yielded no match during lookup.
+
+6.9999998E-4,BAD,19/06/2008,6.9999998E-4,2008-06-19,-1071607778,0,Row yielded no match during lookup.
+
+6.9999998E-4,BAD,20/06/2008,6.9999998E-4,2008-06-20,-1071607778,0,Row yielded no match during lookup.
+
+7.0099998E-4,BAD,21/06/2008,7.0099998E-4,2008-06-21,-1071607778,0,Row yielded no match during lookup.
+
+0.000718,BAD,22/06/2008,0.000718,2008-06-22,-1071607778,0,Row yielded no match during lookup.
+
+7.2800001E-4,BAD,23/06/2008,7.2800001E-4,2008-06-23,-1071607778,0,Row yielded no match during lookup.
+
+0.000718,BAD,24/06/2008,0.000718,2008-06-24,-1071607778,0,Row yielded no match during lookup.
+
+0.000718,BAD,25/06/2008,0.000718,2008-06-25,-1071607778,0,Row yielded no match during lookup.
+
+0.000718,BAD,26/06/2008,0.000718,2008-06-26,-1071607778,0,Row yielded no match during lookup.
+
+0.000718,BAD,27/06/2008,0.000718,2008-06-27,-1071607778,0,Row yielded no match during lookup.
+
+0.000734,BAD,28/06/2008,0.000734,2008-06-28,-1071607778,0,Row yielded no match during lookup.
+
+7.3899998E-4,BAD,29/06/2008,7.3899998E-4,2008-06-29,-1071607778,0,Row yielded no match during lookup.
+
+7.3899998E-4,BAD,30/06/2008,7.3899998E-4,2008-06-30,-1071607778,0,Row yielded no match during lookup.
+
+0.000734,BAD,01/07/2008,0.000734,2008-07-01,-1071607778,0,Row yielded no match during lookup.
+
