@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="AN5-MIGUE\eltie"
+		                          GeneratedFromPackageName="Lesson 5"
+		                          GeneratedFromPackageID="{BBB1A6B2-5253-4207-B614-192E7DDE4977}"
+		                          GeneratedDate="27/08/2023 3:55:19 p. m."/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property"
+	               Path="\Package.Variables[User::varFolderName].Properties[Value]"
+	               ValueType="String">
+		<ConfiguredValue>C:\New Sample Data</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>

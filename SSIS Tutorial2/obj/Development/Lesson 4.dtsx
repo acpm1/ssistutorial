@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Lesson 4"
   DTS:PackageType="5"
-  DTS:VersionBuild="27"
-  DTS:VersionGUID="{AC0CDD29-280F-4651-BDD4-13D83BA7E409}">
+  DTS:VersionBuild="30"
+  DTS:VersionGUID="{E7DBD547-2FD1-4907-8D94-42C0DC265EF6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,10 +29,10 @@
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager Lesson 2]"
+      DTS:refId="Package.ConnectionManagers[Flat File Connection Manager Lesson 4]"
       DTS:CreationName="FLATFILE"
       DTS:DTSID="{3C32C871-6687-40B8-B1BA-933D96D5E06D}"
-      DTS:ObjectName="Flat File Connection Manager Lesson 2">
+      DTS:ObjectName="Flat File Connection Manager Lesson 4">
       <DTS:PropertyExpression
         DTS:Name="ConnectionString">@[User::varFileName]</DTS:PropertyExpression>
       <DTS:ObjectData>
@@ -103,7 +103,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="AverageRate"
-              DTS:DTSID="{AEA4FC91-18C9-4220-9D7E-84368C1BDDBC}"
+              DTS:DTSID="{6392A6BE-BAB1-454D-A32B-61B197C09579}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -112,7 +112,7 @@
               DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyID"
-              DTS:DTSID="{A7540AC4-C2DC-41CE-89BB-681AF1156320}"
+              DTS:DTSID="{BD808B49-CA85-42AE-A1BE-297F387430A6}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -120,7 +120,7 @@
               DTS:DataType="7"
               DTS:TextQualified="True"
               DTS:ObjectName="CurrencyDate"
-              DTS:DTSID="{9C600217-6AED-446D-B5C3-790726A47E6E}"
+              DTS:DTSID="{9CA15D39-691A-4D78-8AF6-00293C8AED52}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -128,7 +128,7 @@
               DTS:DataType="4"
               DTS:TextQualified="True"
               DTS:ObjectName="EndOfDayRate"
-              DTS:DTSID="{2532DF9C-9733-43BF-9DC0-CB1A2238CD35}"
+              DTS:DTSID="{85884E11-67D3-4964-8365-446F5D273FAE}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -137,7 +137,7 @@
               DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="derivedCol"
-              DTS:DTSID="{39ECD02B-DB02-483A-8367-F089401E77CF}"
+              DTS:DTSID="{645C3612-6155-419C-8BEA-0F04724281BD}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -145,7 +145,7 @@
               DTS:DataType="3"
               DTS:TextQualified="True"
               DTS:ObjectName="ErrorCode"
-              DTS:DTSID="{E1512112-62BA-4DF6-AE8F-4036D2791A2C}"
+              DTS:DTSID="{9D1615C0-EFCD-415C-B76B-556A30A3AA14}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -153,7 +153,7 @@
               DTS:DataType="3"
               DTS:TextQualified="True"
               DTS:ObjectName="ErrorColumn"
-              DTS:DTSID="{092177AD-D03D-4B01-950C-A25B1259118C}"
+              DTS:DTSID="{D2496BE8-8EAA-42B3-B240-E8867654F0B4}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -162,7 +162,7 @@
               DTS:DataType="130"
               DTS:TextQualified="True"
               DTS:ObjectName="ErrorDescription"
-              DTS:DTSID="{493A7EC1-3138-45A0-8C86-56E4929C73EB}"
+              DTS:DTSID="{76255E8A-5743-4F6A-85AE-95B21952E38E}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -402,8 +402,8 @@
                   <connections>
                     <connection
                       refId="Package\Foreach File in Folder\Extract Sample Currency Data\Extract Sample Currency Data.Connections[FlatFileConnection]"
-                      connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager Lesson 2]"
-                      connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager Lesson 2]"
+                      connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager Lesson 4]"
+                      connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager Lesson 4]"
                       name="FlatFileConnection" />
                   </connections>
                   <outputs>
@@ -2156,28 +2156,78 @@ where [refTable].[FullDateAlternateKey] = ?</property>
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="218.4,41.6"
-          Id="Package\Foreach File in Folder\Extract Sample Currency Data\OLE DB Destination"
-          TopLeft="303.166650102371,384.799997324149" />
+          Id="Package\Foreach File in Folder\Extract Sample Currency Data\Lookup Date Key"
+          TopLeft="303.166650102371,299.649997916271" />
         <NodeLayout
           Size="218.4,41.6"
           Id="Package\Foreach File in Folder\Extract Sample Currency Data\Extract Sample Currency Data"
           TopLeft="303.166650102371,44.1999996926388" />
         <NodeLayout
           Size="218.4,41.6"
-          Id="Package\Foreach File in Folder\Extract Sample Currency Data\Lookup Date Key"
-          TopLeft="303.166650102371,299.649997916271" />
-        <NodeLayout
-          Size="218.4,41.6"
           Id="Package\Foreach File in Folder\Extract Sample Currency Data\Get Error Description"
           TopLeft="609.58330002717,216.666665159994" />
         <NodeLayout
           Size="218.4,41.6"
-          Id="Package\Foreach File in Folder\Extract Sample Currency Data\Derived Column"
-          TopLeft="303.166650102371,129.349999100516" />
-        <NodeLayout
-          Size="218.4,41.6"
           Id="Package\Foreach File in Folder\Extract Sample Currency Data\Lookup Currency Key"
           TopLeft="303.166650102371,214.499998508394" />
+        <NodeLayout
+          Size="218.4,41.6"
+          Id="Package\Foreach File in Folder\Extract Sample Currency Data\OLE DB Destination"
+          TopLeft="303.166650102371,384.799997324149" />
+        <NodeLayout
+          Size="218.4,41.6"
+          Id="Package\Foreach File in Folder\Extract Sample Currency Data\Flat File Destination"
+          TopLeft="609.58330002717,309.399997848471" />
+        <NodeLayout
+          Size="218.4,41.6"
+          Id="Package\Foreach File in Folder\Extract Sample Currency Data\Derived Column"
+          TopLeft="303.166650102371,129.349999100516" />
+        <EdgeLayout
+          Id="Package\Foreach File in Folder\Extract Sample Currency Data.Paths[Output 0]"
+          TopLeft="718.78330002717,258.266665159994">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,51.133332688477"
+              Start="0,0"
+              End="0,43.633332688477">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,43.633332688477" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Foreach File in Folder\Extract Sample Currency Data.Paths[Lookup Match Output1]"
+          TopLeft="412.366650102371,341.249997916271">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,43.549999407878"
+              Start="0,0"
+              End="0,36.049999407878">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,36.049999407878" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,12.220312203939,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Foreach File in Folder\Extract Sample Currency Data.Paths[Lookup Match Output]"
           TopLeft="412.366650102371,256.099998508394">
@@ -2270,72 +2320,9 @@ where [refTable].[FullDateAlternateKey] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Foreach File in Folder\Extract Sample Currency Data.Paths[Lookup Match Output1]"
-          TopLeft="412.366650102371,341.249997916271">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,43.549999407878"
-              Start="0,0"
-              End="0,36.049999407878">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,36.049999407878" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,12.220312203939,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="218.4,41.6"
-          Id="Package\Foreach File in Folder\Extract Sample Currency Data\Flat File Destination"
-          TopLeft="609.58330002717,309.399997848471" />
-        <EdgeLayout
-          Id="Package\Foreach File in Folder\Extract Sample Currency Data.Paths[Output 0]"
-          TopLeft="718.78330002717,258.266665159994">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,51.133332688477"
-              Start="0,0"
-              End="0,43.633332688477">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,43.633332688477" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Foreach File in Folder\Extract Sample Currency Data\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Foreach File in Folder\Extract Sample Currency Data\Lookup Date Key">
     <Properties>
@@ -2379,6 +2366,19 @@ where [refTable].[FullDateAlternateKey] = ?</property>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Foreach File in Folder\Extract Sample Currency Data\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
